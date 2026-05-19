@@ -195,13 +195,13 @@ University of Science and Technology of Southern Philippines
 🔗 [GitHub](https://github.com/dakkielle)
 
 **Jayza Joy Castillo**
-Computer Science Student
+Computer Science Student  
 University of Science and Technology of Southern Philippines
 
 🔗 [GitHub](https://github.com/jayztar)
 
 **Zynnah Marie Ortiz**
-Computer Science Student
+Computer Science Student  
 University of Science and Technology of Southern Philippines
 
 🔗 [GitHub](https://github.com/zinnah)
