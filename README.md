@@ -187,6 +187,27 @@ This project is for academic purposes. Please contact the author for any commerc
 
 ## 👤 Author
 
+**Shan Chai M. Manlunas**  
+Computer Science Student  
+University of Science and Technology of Southern Philippines
+
+📧 manlunas.shanchai108@gmail.com  
+🔗 [GitHub](https://github.com/dakkielle)
+
+Jayza Joy Castillo
+Computer Science Student
+University of Science and Technology of Southern Philippines
+
+📧 castillo.jayzajoy09@gmail.com
+🔗 [GitHub](https://github.com/jayztar)
+
+Zynnah Marie Ortiz
+Computer Science Student
+University of Science and Technology of Southern Philippines
+
+📧 ortizzynnahmarie01@gmail.com
+🔗 [GitHub](https://github.com/zinnah)
+
 **Casey Jan D. Saguing**  
 Computer Science Student  
 University of Science and Technology of Southern Philippines
