@@ -1,0 +1,3 @@
+embeddings_by_word/
+__pycache__/
+.env
